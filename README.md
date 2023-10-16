@@ -1,2 +1,4 @@
 # google-1998
-patika-kodluyoruz-css-homework-google-1998
+## Kodluyoruz - CSS Homework - Google 1998 With Html & CSS
+
+<img src="assets/google-1998.jpg" alt="">
